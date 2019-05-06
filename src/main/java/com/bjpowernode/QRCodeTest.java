@@ -21,7 +21,7 @@ import java.util.concurrent.ConcurrentHashMap;
  * company:www.bjpowernode.com
  *
  * @Date:2018/7/5 11:08
- * @Author:guoxin
+ * @Author:lixin
  */
 public class QRCodeTest {
 
