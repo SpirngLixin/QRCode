@@ -16,11 +16,8 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * ClassName:QRCodeTest
- * package:com.bjpowernode
- * company:www.bjpowernode.com
  *
- * @Date:2018/7/5 11:08
+ * @Date:2019/05/06 11:08
  * @Author:lixin
  */
 public class QRCodeTest {
